@@ -39,8 +39,9 @@ img {
   margin-top: 0;
   margin-bottom: 1.5rem;
   padding: 0;
-  list-style: none;
+  list-style-type: none;
 }
+
 .footer a {
   color: #003442;
 }
